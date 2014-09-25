@@ -1,0 +1,1707 @@
+﻿<navpoint>
+  <id>macmsc</id>
+  <newId>0</newId>
+  <type>group</type>
+  <label>Miscellaneous navpoints</label>
+  <url></url>
+  <useSSL>N</useSSL>
+  <notes>Miscellaneous navpoints, not defined elsewhere. </notes>
+  <onlyContainsAliases>N</onlyContainsAliases>
+  <navpoint>
+    <id>home</id>
+    <newId>1</newId>
+    <type>page</type>
+    <label>Home</label>
+    <url></url>
+    <pageTitle>Apple Mac Computers &amp; Accessories from MacMall, The #1 Mac Warehouse</pageTitle>
+    <descriptionMetatag>Great deals on the full line of new Apple products, Mac computers &amp; accessories. From the all-new iPad to the Mac Pro, MacMall is your #1 Apple superstore.</descriptionMetatag>
+    <keywordMetatag>apple computer, apple computers, apple products, apple accessories, mac warehouse, macwarehouse</keywordMetatag>
+    <useSSL>N</useSSL>
+    <notes>2009.11.09-SEO tags edited by Jet as per Sitewire reco. Do not modify without permission from Marvin/Marix.2010.07.20-Marix added verification meta tags for Google Webmaster Tools, Yahoo! Site Explorer and MSN Live Search Webmaster Center.2010.08.09 - Canonical created by Alan</notes>
+    <pageWidget>mall.pages.generic.mmHomePageNew</pageWidget>
+    <navpoint>
+      <id>macmsc.10</id>
+      <newId>10</newId>
+      <type>page</type>
+      <label>Company</label>
+      <url></url>
+      <fakeUrl>Company</fakeUrl>
+      <pageTitle>Company | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>pages.aboutUsHomePage</pageWidget>
+      <navpoint>
+        <id>macmsc.11</id>
+        <newId>11</newId>
+        <type>page</type>
+        <label>Contact Us</label>
+        <url></url>
+        <fakeUrl>Contact Us</fakeUrl>
+        <pageTitle>Contact Us | Company | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall.pages.generic.contactUs</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.12</id>
+        <newId>12</newId>
+        <type>page</type>
+        <label>Careers at MacMall</label>
+        <url></url>
+        <fakeUrl>Careers at MacMall</fakeUrl>
+        <pageTitle>Careers at MacMall | Company | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>pages.aboutUsCareerPage</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.14</id>
+        <newId>14</newId>
+        <type>page</type>
+        <label>Investor Relations</label>
+        <url></url>
+        <fakeUrl>Investor Relations</fakeUrl>
+        <pageTitle>Investor Relations | Company | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>pages.aboutUsInvestorPage</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.15</id>
+        <newId>15</newId>
+        <type>page</type>
+        <label>Retail Store Locations</label>
+        <url></url>
+        <fakeUrl>Retail Store Locations</fakeUrl>
+        <pageTitle>Retail Store Locations | Company | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.infoStoreLocations</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.20</id>
+        <newId>20</newId>
+        <type>page</type>
+        <label>Benefits at MacMall</label>
+        <url></url>
+        <fakeUrl>Benefits at MacMall</fakeUrl>
+        <pageTitle>Benefits at MacMall | Company | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>pages.aboutUsBenefitsPage</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.21</id>
+        <newId>21</newId>
+        <type>page</type>
+        <label>Executive Team</label>
+        <url></url>
+        <fakeUrl>Executive Team</fakeUrl>
+        <pageTitle>Executive Team | Company | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>pages.aboutUsExecutivePage</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.4</id>
+      <newId>4</newId>
+      <type>page</type>
+      <label>My Account Dashboard</label>
+      <url></url>
+      <fakeUrl>My Account Dashboard</fakeUrl>
+      <pageTitle>My Account Dashboard | MacMall.com</pageTitle>
+      <descriptionMetatag>Check your recent account activities with Your Account Dashboard. </descriptionMetatag>
+      <useSSL>Y</useSSL>
+      <notes>2010.08.09 - SEO Booster, Canonical, Metatags created by Alan2010.08.09 - Revised Rich Text from: "From your my account dashboard, you will have the ability to view a snapshot of your recent my account activity." to "From Your Account Dashboard, you will have the ability to view a snapshot of your recent account activity."**** DO NOT MODIFY WITHOUT PERMISSION FROM ALAN/MARIX ****2010.08.27. Blurb removed by Marix.</notes>
+      <pageWidget>mall_pages_generic.myAccountDashboard</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+      <navpoint>
+        <id>macmsc.34</id>
+        <newId>34</newId>
+        <type>page</type>
+        <label>Account Profile</label>
+        <url></url>
+        <fakeUrl>Account Profile</fakeUrl>
+        <pageTitle>Account Profile | My Account Dashboard | MacMall.com</pageTitle>
+        <descriptionMetatag>Check and revise your account details: Email Address, Billing Information and Address, and Payment Details.</descriptionMetatag>
+        <useSSL>Y</useSSL>
+        <notes>2010.08.09 - SEO Booster, Canonical, Meta tags created by Alan****DO NOT MODIFY WITHOUT PERMISSION FROM ALAN/MARIX*****</notes>
+        <pageWidget>mall_pages_generic.accountProfilePage</pageWidget>
+        <requiresLogin>Y</requiresLogin>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.29</id>
+        <newId>29</newId>
+        <type>page</type>
+        <label>Address Book</label>
+        <url></url>
+        <fakeUrl>Address Book</fakeUrl>
+        <pageTitle>Address Book | My Account Dashboard | MacMall.com</pageTitle>
+        <descriptionMetatag>You can edit your My Account settings and profile, view your order status, view your payment and transaction details. Options are also provided to manage each of these features so you can view, edit, delete, or add to them as necessary.</descriptionMetatag>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.addressBook</pageWidget>
+        <requiresLogin>Y</requiresLogin>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.25</id>
+        <newId>25</newId>
+        <type>page</type>
+        <label>Order Confirmation</label>
+        <url></url>
+        <fakeUrl>Order Confirmation</fakeUrl>
+        <pageTitle>Order Confirmation | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.orderConfirmation</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.6</id>
+        <newId>6</newId>
+        <type>page</type>
+        <label>Order Status</label>
+        <url></url>
+        <fakeUrl>Order Status</fakeUrl>
+        <pageTitle>Order Status | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.orderStatus</pageWidget>
+        <navpoint>
+          <id>macmsc.81</id>
+          <newId>81</newId>
+          <type>page</type>
+          <label>Print Invoice</label>
+          <url></url>
+          <fakeUrl>Print Invoice</fakeUrl>
+          <pageTitle>Print Invoice | My Account Dashboard | MacMall.com</pageTitle>
+          <useSSL>Y</useSSL>
+          <pageWidget>mall_pages_generic.printInvoice</pageWidget>
+        </navpoint>
+        <navpoint>
+          <id>107</id>
+          <newId>107</newId>
+          <type>page</type>
+          <label>Whats This</label>
+          <url></url>
+          <fakeUrl>What's This</fakeUrl>
+          <pageTitle>What's This | My Account Dashboard | MacMall.com</pageTitle>
+          <useSSL>N</useSSL>
+          <pageWidget>mall_pages_generic.whatsThis</pageWidget>
+        </navpoint>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.33</id>
+        <newId>33</newId>
+        <type>page</type>
+        <label>Order Summary</label>
+        <url></url>
+        <fakeUrl>Order Summary</fakeUrl>
+        <pageTitle>Order Summary | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall.pages.generic.orderSummary</pageWidget>
+        <requiresLogin>Y</requiresLogin>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.56</id>
+        <newId>56</newId>
+        <type>page</type>
+        <label>Password Change</label>
+        <url></url>
+        <fakeUrl>Password Change</fakeUrl>
+        <pageTitle>Password Change | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.passwordChange</pageWidget>
+        <navpoint>
+          <id>macmsc.57</id>
+          <newId>57</newId>
+          <type>page</type>
+          <label>Password Change Done</label>
+          <url></url>
+          <fakeUrl>Password Change Confirmation</fakeUrl>
+          <pageTitle>Password Change Confirmation | My Account Dashboard | MacMall.com</pageTitle>
+          <useSSL>Y</useSSL>
+          <pageWidget>mall_pages_generic.passwordChangeDone</pageWidget>
+        </navpoint>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.24</id>
+        <newId>24</newId>
+        <type>page</type>
+        <label>Registration</label>
+        <url></url>
+        <fakeUrl>Registration</fakeUrl>
+        <pageTitle>Registration | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.regCheckout</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.35</id>
+        <newId>35</newId>
+        <type>page</type>
+        <label>Ship Tracking</label>
+        <url></url>
+        <fakeUrl>Ship Tracking</fakeUrl>
+        <pageTitle>Ship Tracking | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.shipTracking</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.28</id>
+        <newId>28</newId>
+        <type>page</type>
+        <label>Track Rebates</label>
+        <url></url>
+        <fakeUrl>Track Rebates</fakeUrl>
+        <pageTitle>Track Rebates | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.trackRebates</pageWidget>
+        <requiresLogin>Y</requiresLogin>
+      </navpoint>
+      <navpoint>
+        <id>96</id>
+        <newId>96</newId>
+        <type>page</type>
+        <label>Update Preferences</label>
+        <url></url>
+        <fakeUrl>Update Preferences</fakeUrl>
+        <pageTitle>Update Preferences | My Account Dashboard | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.correctUpdatePreference</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.5</id>
+      <newId>5</newId>
+      <type>page</type>
+      <label>Help</label>
+      <url></url>
+      <fakeUrl>Help</fakeUrl>
+      <pageTitle>Help | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.helpPage</pageWidget>
+      <navpoint>
+        <id>macmsc.8</id>
+        <newId>8</newId>
+        <type>page</type>
+        <label>Software Licensing</label>
+        <url></url>
+        <fakeUrl>Software Licensing</fakeUrl>
+        <pageTitle>Software Licensing | Help | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.softwareLicensingSolution</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.9</id>
+        <newId>9</newId>
+        <type>page</type>
+        <label>Unsubscribe</label>
+        <url></url>
+        <fakeUrl>Unsubscribe</fakeUrl>
+        <pageTitle>Unsubscribe | Help | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>pages.unsubscribePage</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.19</id>
+      <newId>19</newId>
+      <type>page</type>
+      <label>iPods</label>
+      <url></url>
+      <fakeUrl>iPods</fakeUrl>
+      <pageTitle>iPods | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <categories>SK*</categories>
+      <pageWidget>mall_pages_generic.iPodPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.7</id>
+      <newId>7</newId>
+      <type>page</type>
+      <label>Supply &amp; Accessory Configurator</label>
+      <url></url>
+      <fakeUrl>Supply &amp; Accessory Configurator</fakeUrl>
+      <pageTitle>Supply &amp; Accessory Configurator | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>pages.productFinderPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.18</id>
+      <newId>18</newId>
+      <type>page</type>
+      <label>Rebates</label>
+      <url></url>
+      <fakeUrl>Rebates</fakeUrl>
+      <pageTitle>Rebates | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.rebatesCenter</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.23</id>
+      <newId>23</newId>
+      <type>page</type>
+      <label>Login</label>
+      <url></url>
+      <fakeUrl>Login</fakeUrl>
+      <pageTitle>Login | MacMall.com</pageTitle>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.signIn</pageWidget>
+      <navpoint>
+        <id>macmsc.26</id>
+        <newId>26</newId>
+        <type>page</type>
+        <label>Password Forgot</label>
+        <url></url>
+        <fakeUrl>Forgot Password</fakeUrl>
+        <pageTitle>Forgot Password | Login | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.passwordForgot</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.58</id>
+        <newId>58</newId>
+        <type>page</type>
+        <label>Password Recover</label>
+        <url></url>
+        <fakeUrl>Recover Password</fakeUrl>
+        <pageTitle>Recover Password | Login | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.passwordRecover</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.59</id>
+        <newId>59</newId>
+        <type>page</type>
+        <label>Password Email Sent</label>
+        <url></url>
+        <fakeUrl>Email Password</fakeUrl>
+        <pageTitle>Email Password | Login | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.passwordEmailSent</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.60</id>
+        <newId>60</newId>
+        <type>page</type>
+        <label>Password Verify</label>
+        <url></url>
+        <fakeUrl>Verify Password</fakeUrl>
+        <pageTitle>Verify Password | Login | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.passwordVerify</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.61</id>
+        <newId>61</newId>
+        <type>page</type>
+        <label>Password Security Question</label>
+        <url></url>
+        <fakeUrl>Security Question</fakeUrl>
+        <pageTitle>Security Question | Login | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.passwordSecurityQuestion</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.27</id>
+      <newId>27</newId>
+      <type>page</type>
+      <label>Shopping Cart</label>
+      <url></url>
+      <fakeUrl>Shopping Cart</fakeUrl>
+      <pageTitle>Shopping Cart | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.cartApple</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.53</id>
+      <newId>53</newId>
+      <type>page</type>
+      <label>RSS Feeds</label>
+      <url></url>
+      <fakeUrl>rss feeds</fakeUrl>
+      <pageTitle>MacMall RSS Feeds - Best Sellers &amp; Blowout Deals</pageTitle>
+      <descriptionMetatag>Subscribe to MacMall's RSS Feeds and never miss out on our deals</descriptionMetatag>
+      <keywordMetatag>rss,bestsellers,blowout, deals</keywordMetatag>
+      <useSSL>N</useSSL>
+      <notes>03.30 Marix removed the links to the RSS feeds for MacMall's Blowout Deals and MacMall's LCD &amp; Plasma TV Deals -- resulting in errors upon page generation. Backup copy saved in backups.pagesRssFeedMain.</notes>
+      <pageWidget>mall_pages_generic.rssFeedMain</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.64</id>
+      <newId>64</newId>
+      <type>page</type>
+      <label>Customer Reviews</label>
+      <url></url>
+      <fakeUrl>Customer Reviews</fakeUrl>
+      <pageTitle>Customer Reviews | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <notes>read ALL customer reviews</notes>
+      <pageWidget>mall_pages_generic.customerReviews</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.65</id>
+      <newId>65</newId>
+      <type>page</type>
+      <label>Customer Review</label>
+      <url></url>
+      <fakeUrl>Customer Review</fakeUrl>
+      <pageTitle>Customer Review | MacMall.com</pageTitle>
+      <descriptionMetatag>Customer Review at MacMall.com.</descriptionMetatag>
+      <useSSL>N</useSSL>
+      <notes>read SINGLE customer review</notes>
+      <pageWidget>mall_pages_generic.customerReviewsSingle</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.66</id>
+      <newId>66</newId>
+      <type>page</type>
+      <label>Write A Review</label>
+      <url></url>
+      <fakeUrl>Write A Review</fakeUrl>
+      <pageTitle>Write A Review | MacMall.com</pageTitle>
+      <useSSL>Y</useSSL>
+      <notes>write customer reviews</notes>
+      <pageWidget>mall_pages_generic.writeReview</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.67</id>
+      <newId>67</newId>
+      <type>page</type>
+      <label>Affiliate Network</label>
+      <url></url>
+      <fakeUrl>Affiliate Network</fakeUrl>
+      <pageTitle>Affiliate Network | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.infoAffiliateNetwork</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>101</id>
+      <newId>101</newId>
+      <type>page</type>
+      <label>Testimonials</label>
+      <url></url>
+      <fakeUrl>Testimonials</fakeUrl>
+      <pageTitle>Testimonials | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <notes>Display ALL testimonials</notes>
+      <pageWidget>mall_pages_generic.testimonialsAll</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.83</id>
+      <newId>83</newId>
+      <type>page</type>
+      <label>Availability Legend</label>
+      <url></url>
+      <fakeUrl>Availability Legend</fakeUrl>
+      <pageTitle>Availability Legend | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.availabilityLegend</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.90</id>
+      <newId>90</newId>
+      <type>page</type>
+      <label>Unsubscribe</label>
+      <url></url>
+      <fakeUrl>Unsubscribe</fakeUrl>
+      <pageTitle>Unsubscribe | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.unsubscribe</pageWidget>
+      <navpoint>
+        <id>macmsc.91</id>
+        <newId>91</newId>
+        <type>page</type>
+        <label>Unsubscribe Thank You</label>
+        <url></url>
+        <fakeUrl>Unsubscribe Thank You</fakeUrl>
+        <pageTitle>Unsubscribe Thank You | Unsubscribe | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.unsubscribeThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.92</id>
+        <newId>92</newId>
+        <type>page</type>
+        <label>Unsubscribe No Email</label>
+        <url></url>
+        <fakeUrl>Unsubscribe No Email</fakeUrl>
+        <pageTitle>Unsubscribe No Email | Unsubscribe | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.unsubscribeNoEmail</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.87</id>
+      <newId>87</newId>
+      <type>alias</type>
+      <label>Email &amp; Catalog Sign Up</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.emailAndCatalogSignUpNew</pageWidget>
+      <linkedNavpoint>macmsc-161</linkedNavpoint>
+      <navpoint>
+        <id>macmsc.88</id>
+        <newId>88</newId>
+        <type>alias</type>
+        <label>Email &amp; Catalog Sign Up Thank You</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.emailAndCatalogSignUpThankYou</pageWidget>
+        <linkedNavpoint>macmsc-163</linkedNavpoint>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.89</id>
+        <newId>89</newId>
+        <type>page</type>
+        <label>Email &amp; Catalog Sign Up Winners</label>
+        <url></url>
+        <fakeUrl>Email &amp; Catalog Sign Up Winners</fakeUrl>
+        <pageTitle>Email &amp; Catalog Sign Up Winners | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.emailAndCatalogSignUpWinners</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.93</id>
+        <newId>93</newId>
+        <type>page</type>
+        <label>Catalog Sign Up</label>
+        <url></url>
+        <fakeUrl>Catalog Sign Up</fakeUrl>
+        <pageTitle>Catalog Sign Up | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.catalogSignUp</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>118</id>
+        <newId>118</newId>
+        <type>page</type>
+        <label>Catalog Sign Up Thank You</label>
+        <url></url>
+        <fakeUrl>Catalog Sign Up Thank You</fakeUrl>
+        <pageTitle>Catalog Sign Up Thank You | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.catalogSignUpThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>macmsc.94</id>
+        <newId>94</newId>
+        <type>page</type>
+        <label>Catalog Remove</label>
+        <url></url>
+        <fakeUrl>Catalog Remove</fakeUrl>
+        <pageTitle>Catalog Remove | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.catalogRemove</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>116</id>
+        <newId>116</newId>
+        <type>page</type>
+        <label>Catalog Remove Thank You</label>
+        <url></url>
+        <fakeUrl>Catalog Remove Thank You</fakeUrl>
+        <pageTitle>Catalog Remove Thank You | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_generic.catalogRemoveThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>141</id>
+        <newId>141</newId>
+        <type>page</type>
+        <label>Advantage Email Help Page</label>
+        <url></url>
+        <fakeUrl>Advantage Email Help Page</fakeUrl>
+        <pageTitle>Advantage Email Help Page | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.advantageEmailHelp</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>146</id>
+        <newId>146</newId>
+        <type>page</type>
+        <label>Do Not Share Information</label>
+        <url></url>
+        <fakeUrl>Do Not Share Information</fakeUrl>
+        <pageTitle>Do Not Share Information | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.doNotShare</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>147</id>
+        <newId>147</newId>
+        <type>page</type>
+        <label>Do Not Share Information Thank You</label>
+        <url></url>
+        <fakeUrl>Do Not Share Information Thank You</fakeUrl>
+        <pageTitle>Do Not Share Information Thank You | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.doNotShareThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>156</id>
+        <newId>156</newId>
+        <type>page</type>
+        <label>Email Sign Up Gadget Giveaway</label>
+        <url></url>
+        <fakeUrl>Email Sign Up Gadget Giveaway</fakeUrl>
+        <pageTitle>Email Sign Up Gadget Giveaway | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.emailAndCatalogSignUpNew</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>157</id>
+        <newId>157</newId>
+        <type>page</type>
+        <label>Email Signup Gadget Giveaway Rules</label>
+        <url></url>
+        <fakeUrl>Email Signup Gadget Giveaway Rules</fakeUrl>
+        <pageTitle>Email Signup Gadget Giveaway Rules | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.emailSignupGadgetGiveawayRules</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>161</id>
+        <newId>161</newId>
+        <type>page</type>
+        <label>NEW Email &amp; Catalog Signup Page</label>
+        <url></url>
+        <fakeUrl>NEW Email &amp; Catalog Signup Page</fakeUrl>
+        <pageTitle>NEW Email &amp; Catalog Signup Page | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <descriptionMetatag>Join MacMall's Gadget Giveaway!</descriptionMetatag>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_emailSignup.emailAndCatalogSignup</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>158</id>
+        <newId>158</newId>
+        <type>page</type>
+        <label>Contest Sign Up Thank You</label>
+        <url></url>
+        <fakeUrl>Contest Sign Up Thank You</fakeUrl>
+        <pageTitle>Contest Sign Up Thank You | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.contestSignupThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>159</id>
+        <newId>159</newId>
+        <type>alias</type>
+        <label>Contest Sign Up</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.contestSignup</pageWidget>
+        <linkedNavpoint>macmsc-162</linkedNavpoint>
+      </navpoint>
+      <navpoint>
+        <id>163</id>
+        <newId>163</newId>
+        <type>page</type>
+        <label>NEW Email &amp; Catalog Signup Thank You</label>
+        <url></url>
+        <fakeUrl>NEW Email &amp; Catalog Signup Thank You</fakeUrl>
+        <pageTitle>NEW Email &amp; Catalog Signup Thank You | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_emailSignup.emailAndCatalogSignupThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>162</id>
+        <newId>162</newId>
+        <type>page</type>
+        <label>NEW Contest Signup Page</label>
+        <url></url>
+        <fakeUrl>NEW Contest Signup Page</fakeUrl>
+        <pageTitle>NEW Contest Signup Page | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <descriptionMetatag>Join MacMall's Gadget Giveaway!</descriptionMetatag>
+        <useSSL>Y</useSSL>
+        <pageWidget>mall_pages_emailSignup.contestSignup</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>164</id>
+        <newId>164</newId>
+        <type>page</type>
+        <label>NEW Contest Signup Thank You</label>
+        <url></url>
+        <fakeUrl>NEW Contest Signup Thank You</fakeUrl>
+        <pageTitle>NEW Contest Signup Thank You | Email &amp; Catalog Sign Up | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_emailSignup.contestSignupThankYou</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>176</id>
+        <newId>176</newId>
+        <type>page</type>
+        <label>Deals Pop Up</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_emailSignup.dealsPopUp</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>97</id>
+      <newId>97</newId>
+      <type>page</type>
+      <label>Tell A Friend</label>
+      <url></url>
+      <fakeUrl>Tell A Friend</fakeUrl>
+      <pageTitle>Tell A Friend | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.tellAFriend</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>98</id>
+      <newId>98</newId>
+      <type>page</type>
+      <label>Customer Feedback</label>
+      <url></url>
+      <fakeUrl>Customer Feedback</fakeUrl>
+      <pageTitle>Customer Feedback | MacMall.com</pageTitle>
+      <descriptionMetatag>MacMall Customer Feedback Form</descriptionMetatag>
+      <keywordMetatag>customer feedback</keywordMetatag>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.customerFeedback</pageWidget>
+      <navpoint>
+        <id>99</id>
+        <newId>99</newId>
+        <type>page</type>
+        <label>Customer Feedback Thank You</label>
+        <url></url>
+        <fakeUrl>Thank You For Your Feedback</fakeUrl>
+        <pageTitle>Thank You For Your Feedback | Customer Feedback | MacMall.com</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.customerFeedbackThankYou</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>102</id>
+      <newId>102</newId>
+      <type>page</type>
+      <label>Testimonial</label>
+      <url></url>
+      <fakeUrl>Testimonial</fakeUrl>
+      <pageTitle>Testimonial | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <notes>Display SINGLE testimonial</notes>
+      <pageWidget>mall_pages_generic.testimonialsSingle</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>151</id>
+      <newId>151</newId>
+      <type>page</type>
+      <label>Deal Alerts Sign Up</label>
+      <url></url>
+      <fakeUrl>Deal Alerts Sign Up</fakeUrl>
+      <pageTitle>Deal Alerts Sign Up | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.dealAlerts</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>167</id>
+      <newId>167</newId>
+      <type>page</type>
+      <label>Financing Options</label>
+      <url></url>
+      <fakeUrl>Financing Options</fakeUrl>
+      <pageTitle>Financing Options | MacMall.com</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.financingoptions</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>149</id>
+      <newId>149</newId>
+      <type>page</type>
+      <label>Top Searches</label>
+      <url></url>
+      <fakeUrl>Top Searches</fakeUrl>
+      <pageTitle>Top Searches | MacMall.com</pageTitle>
+      <descriptionMetatag>Top Searches at MacMall.com. MacBook, MacBook Air, MacBook Pro, iPod, shuffle, classic, nano, touch.</descriptionMetatag>
+      <useSSL>N</useSSL>
+      <pageWidget>mall.pages.topSearches.dynamicTopSearches</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>171</id>
+      <newId>171</newId>
+      <type>page</type>
+      <label>Qna Main Page</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.qnaMain</pageWidget>
+      <navpoint>
+        <id>172</id>
+        <newId>172</newId>
+        <type>page</type>
+        <label>Answer Page</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.answerPage</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>173</id>
+        <newId>173</newId>
+        <type>page</type>
+        <label>Rules and Regulations</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.rulesAndRegulation</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>174</id>
+        <newId>174</newId>
+        <type>page</type>
+        <label>Answer Popup Page</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <notes>Reserved for Question and Answer feature</notes>
+        <pageWidget>mall_pages_generic.qnaAnswerPopupPage</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>177</id>
+        <newId>177</newId>
+        <type>page</type>
+        <label>Answer Popup Test Page</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.qnaAnswerPopupPage</pageWidget>
+      </navpoint>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>169</id>
+    <newId>169</newId>
+    <type>page</type>
+    <label>Home - New</label>
+    <url></url>
+    <pageTitle>MacMall - The #1 Mac Warehouse for Apple Computers &amp; Accessories</pageTitle>
+    <descriptionMetatag>MacMall carries the full Apple line, including the new iPad. Get great deals on the MacBook, Mac Pro, iMac, MacBook Pro, iPod, accessories &amp; more!</descriptionMetatag>
+    <keywordMetatag>apple,mac,ipod,ipad,macbook, macbook pro, macbook air, imac, ipod touch, ipod nano, ipod classic, ipod shuffle</keywordMetatag>
+    <useSSL>N</useSSL>
+    <notes>Alternate homepage</notes>
+    <pageWidget>mall_pages_promoPages.dealOfTheDayNew</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>170</id>
+    <newId>170</newId>
+    <type>page</type>
+    <label>Home - New 2</label>
+    <url></url>
+    <pageTitle>MacMall - The #1 Mac Warehouse for Apple Computers &amp; Accessories</pageTitle>
+    <descriptionMetatag>MacMall carries the full Apple line, including the new iPad. Get great deals on the MacBook, Mac Pro, iMac, MacBook Pro, iPod, accessories &amp; more!</descriptionMetatag>
+    <keywordMetatag>apple,mac,ipod,ipad,macbook, macbook pro, macbook air, imac, ipod touch, ipod nano, ipod classic, ipod shuffle</keywordMetatag>
+    <useSSL>N</useSSL>
+    <notes>Alternate homepage</notes>
+    <pageWidget>pages.homePageBackup</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>missingLink</id>
+    <newId>2</newId>
+    <type>page</type>
+    <label>Missing Link</label>
+    <url></url>
+    <pageTitle>The page you requested is unavailable.</pageTitle>
+    <useSSL>N</useSSL>
+    <notes>This is where we go when a link is missing.</notes>
+    <pageWidget>mall_pages_generic.pageNotFound</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>errorLink</id>
+    <newId>130</newId>
+    <type>page</type>
+    <label>Error Link</label>
+    <url></url>
+    <pageTitle>There was an error processing your request.</pageTitle>
+    <useSSL>N</useSSL>
+    <notes>This is where we go when there is an error.</notes>
+    <pageWidget>mall_pages_generic.pageError</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>search</id>
+    <newId>22</newId>
+    <type>page</type>
+    <label>Search</label>
+    <url></url>
+    <fakeUrl>MacMall Search</fakeUrl>
+    <pageTitle>Search results at MacMall.com</pageTitle>
+    <descriptionMetatag>Search results at MacMall.com</descriptionMetatag>
+    <useSSL>N</useSSL>
+    <pageWidget>mall.pages.generic.search</pageWidget>
+    <navpoint>
+      <id>macmsc.82</id>
+      <newId>82</newId>
+      <type>page</type>
+      <label>Search Comparison</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.searchComparison</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>100</id>
+      <newId>100</newId>
+      <type>page</type>
+      <label>Search Feedback Thank You</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.searchFeedbackThankYou</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>187</id>
+      <newId>187</newId>
+      <type>page</type>
+      <label>Stop Shop Search Redirect</label>
+      <url></url>
+      <pageTitle>Stop Shop Search</pageTitle>
+      <useSSL>N</useSSL>
+      <pageWidget>mall.pages.generic.stopShopSearchRedirect</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>189</id>
+      <newId>189</newId>
+      <type>page</type>
+      <label>Content Search</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall.pages.customPages.contentSearch</pageWidget>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>macmsc.36</id>
+    <newId>36</newId>
+    <type>page</type>
+    <label>Static Page</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.staticPage</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>cart</id>
+    <newId>37</newId>
+    <type>page</type>
+    <label>Shopping Cart</label>
+    <url></url>
+    <fakeUrl>Shopping Cart</fakeUrl>
+    <pageTitle>Shopping Cart | MacMall</pageTitle>
+    <descriptionMetatag>Shopping Cart for MacMall</descriptionMetatag>
+    <useSSL>N</useSSL>
+    <notes>20100917. Marix added common.fetchbackPixel.20110311. Weng added new section for "Bestselling Apple iPod Accessories" under iPod and removed "Cables" section.</notes>
+    <pageWidget>mall_pages_generic.cartApple</pageWidget>
+    <navpoint>
+      <id>113</id>
+      <newId>113</newId>
+      <type>page</type>
+      <label>Custom Codes</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.customCodes</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>127</id>
+      <newId>127</newId>
+      <type>page</type>
+      <label>Service Plans for iPods</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.servicePlansPage_iPod</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>128</id>
+      <newId>128</newId>
+      <type>page</type>
+      <label>Service Plans for non-Apple Products</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.servicePlansPage_Etc</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>185</id>
+      <newId>185</newId>
+      <type>page</type>
+      <label>New Navpoint</label>
+      <url></url>
+      <useSSL>N</useSSL>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>macmsc.42</id>
+    <newId>42</newId>
+    <type>page</type>
+    <label>CheckOut</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.cartApple</pageWidget>
+    <navpoint>
+      <id>macmsc.43</id>
+      <newId>43</newId>
+      <type>page</type>
+      <label>Sign In</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.signinPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.44</id>
+      <newId>44</newId>
+      <type>page</type>
+      <label>Billing and Shipping</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.billingAndShipping</pageWidget>
+      <navpoint>
+        <id>115</id>
+        <newId>115</newId>
+        <type>page</type>
+        <label>MacMall Privacy Policy</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_helpPages.macmallPrivacyPolicy</pageWidget>
+        <navpoint>
+          <id>188</id>
+          <newId>188</newId>
+          <type>page</type>
+          <label>Cookie FAQs</label>
+          <url></url>
+          <fakeUrl>FAQs Cookies</fakeUrl>
+          <pageTitle>MacMall | FAQs | Cookies</pageTitle>
+          <useSSL>N</useSSL>
+          <pageWidget>mall.pages.helpPages.cookieFAQs</pageWidget>
+        </navpoint>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.45</id>
+      <newId>45</newId>
+      <type>page</type>
+      <label>Payment</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.paymentCheckout</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+      <navpoint>
+        <id>114</id>
+        <newId>114</newId>
+        <type>page</type>
+        <label>Card Security Code</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_helpPages.cardSecurityCode</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>152</id>
+        <newId>152</newId>
+        <type>page</type>
+        <label>Non US Based Credit Cards</label>
+        <url></url>
+        <pageTitle>Non-US Based Credit Cards</pageTitle>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_helpPages.nonUScreditCard</pageWidget>
+      </navpoint>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.46</id>
+      <newId>46</newId>
+      <type>page</type>
+      <label>Verify Order</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.verifyOrderCheckout</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.47</id>
+      <newId>47</newId>
+      <type>page</type>
+      <label>Order Confirmation</label>
+      <url></url>
+      <fakeUrl>Order Confirmation</fakeUrl>
+      <pageTitle>Order Confirmation | MacMall</pageTitle>
+      <descriptionMetatag>Order Confirmation | MacMall</descriptionMetatag>
+      <useSSL>Y</useSSL>
+      <notes>20100823. Marix removed the ResellerRatings popup (common.javascriptImporter and common.linkTag)20100917. Marix added common.fetchbackPixel.</notes>
+      <pageWidget>mall_pages_generic.orderConfirmation</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.48</id>
+      <newId>48</newId>
+      <type>page</type>
+      <label>Payment  Bill Me Later</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.paymentBillMeLater</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.49</id>
+      <newId>49</newId>
+      <type>page</type>
+      <label>Payment Preferred Account</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.paymentPreferredAccount</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.62</id>
+      <newId>62</newId>
+      <type>page</type>
+      <label>Authentication page</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.authPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>117</id>
+      <newId>117</newId>
+      <type>page</type>
+      <label>Shipping Method</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.shippingMethod</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>134</id>
+      <newId>134</newId>
+      <type>page</type>
+      <label>Create New Account Only</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.createNewAccount</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>135</id>
+      <newId>135</newId>
+      <type>page</type>
+      <label>Create New Account With Billing and Shipping</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.createNewAccountWithBillingAndShipping</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>136</id>
+      <newId>136</newId>
+      <type>page</type>
+      <label>Edit Shipping Address</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.editShippingAddress</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>137</id>
+      <newId>137</newId>
+      <type>page</type>
+      <label>Edit Billing Address</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.editBillingAddress</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>138</id>
+      <newId>138</newId>
+      <type>page</type>
+      <label>Add Update Billing and Shipping</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.addEditBillingAndShipping</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>139</id>
+      <newId>139</newId>
+      <type>page</type>
+      <label>Add New Shipping Address</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.addNewShippingAddress</pageWidget>
+      <requiresLogin>Y</requiresLogin>
+    </navpoint>
+    <navpoint>
+      <id>140</id>
+      <newId>140</newId>
+      <type>page</type>
+      <label>Create New Account With Billing And Shipping-CheckOut</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.createNewAccountWithBilllingAndShippingCheckOut</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>145</id>
+      <newId>145</newId>
+      <type>page</type>
+      <label>Message Box</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.messageBoxCheckOut</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>148</id>
+      <newId>148</newId>
+      <type>page</type>
+      <label>Paypal Auth Page</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.authPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>178</id>
+      <newId>178</newId>
+      <type>page</type>
+      <label>Amazon Billing</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall.pages.generic.amazonBilling</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>179</id>
+      <newId>179</newId>
+      <type>page</type>
+      <label>Amazon Shipping</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.amazonShipping</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>180</id>
+      <newId>180</newId>
+      <type>page</type>
+      <label>Amazon Payment</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.amazonPayment</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>181</id>
+      <newId>181</newId>
+      <type>page</type>
+      <label>Amazon Verify Order</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall.pages.generic.amazonVerifyOrder</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>182</id>
+      <newId>182</newId>
+      <type>page</type>
+      <label>Amazon Authentication</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall.pages.generic.amazonAuthPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>183</id>
+      <newId>183</newId>
+      <type>page</type>
+      <label>Amazon Order Confirmation</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall.pages.generic.amazonOrderConfirmation</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>186</id>
+      <newId>186</newId>
+      <type>page</type>
+      <label>New Navpoint</label>
+      <url></url>
+      <useSSL>N</useSSL>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>login</id>
+    <newId>38</newId>
+    <type>page</type>
+    <label>Sign-In</label>
+    <url></url>
+    <pageTitle>Login | MacMall.com</pageTitle>
+    <useSSL>Y</useSSL>
+    <pageWidget>mall_pages_generic.signIn</pageWidget>
+    <navpoint>
+      <id>macmsc.39</id>
+      <newId>39</newId>
+      <type>page</type>
+      <label>Sign-In with New Account</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.signInNewAccnt</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.40</id>
+      <newId>40</newId>
+      <type>page</type>
+      <label>Sign-In CheckOut</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.checkOutSignIn</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.41</id>
+      <newId>41</newId>
+      <type>page</type>
+      <label>Sign-In Order</label>
+      <url></url>
+      <useSSL>Y</useSSL>
+      <pageWidget>mall_pages_generic.orderLoginPage</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>121</id>
+      <newId>121</newId>
+      <type>external</type>
+      <label>Business Direct Login</label>
+      <url>https://bd.macmall.com/o/BD-Login/msc-202</url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall.pages.generic.loginCapAccount</pageWidget>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>macmsc.69</id>
+    <newId>69</newId>
+    <type>group</type>
+    <label>Licensing Pages</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <navpoint>
+      <id>macmsc.84</id>
+      <newId>84</newId>
+      <type>page</type>
+      <label>Licensing Solution Microsoft</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionMS</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.74</id>
+      <newId>74</newId>
+      <type>page</type>
+      <label>Licensing Solution MS Select</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionMicrosoftSelect</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.75</id>
+      <newId>75</newId>
+      <type>page</type>
+      <label>Licensing Solution MS Open Value</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionMicrosoftOpenValue</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.76</id>
+      <newId>76</newId>
+      <type>page</type>
+      <label>Licensing Solution MS Open</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionMicrosoftOpen</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.77</id>
+      <newId>77</newId>
+      <type>page</type>
+      <label>Adobe Transactional</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionAdobeTransactional</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.78</id>
+      <newId>78</newId>
+      <type>page</type>
+      <label>Adobe Contractual</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionAdobeContractual</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>macmsc.79</id>
+      <newId>79</newId>
+      <type>page</type>
+      <label>Adobe Upgrade</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.softwareLicensingSolutionAdobeUpgrade</pageWidget>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>macmsc.80</id>
+    <newId>80</newId>
+    <type>page</type>
+    <label>iPod Engraving</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.ipodEngraving</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>103</id>
+    <newId>103</newId>
+    <type>group</type>
+    <label>Mobile</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <navpoint>
+      <id>104</id>
+      <newId>104</newId>
+      <type>page</type>
+      <label>Mobile Default</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.mobileDefault</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>105</id>
+      <newId>105</newId>
+      <type>page</type>
+      <label>Mobile Search Result</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.mobileSearch</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>106</id>
+      <newId>106</newId>
+      <type>page</type>
+      <label>Mobile Detail Result</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.mobileDetail</pageWidget>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>112</id>
+    <newId>112</newId>
+    <type>external</type>
+    <label>PayPal-External</label>
+    <url></url>
+    <useSSL>N</useSSL>
+  </navpoint>
+  <navpoint>
+    <id>124</id>
+    <newId>124</newId>
+    <type>page</type>
+    <label>Service Plans</label>
+    <url></url>
+    <fakeUrl>service-plans</fakeUrl>
+    <pageTitle>Apple Service Plans at MacMall.com, Your #1 Apple Store</pageTitle>
+    <descriptionMetatag>An Apple service plan gives you extended years of coverage so that you can sleep better and be worry-free about your Mac computers &amp; Apple products.</descriptionMetatag>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.servicePlansPage</pageWidget>
+    <navpoint>
+      <id>125</id>
+      <newId>125</newId>
+      <type>page</type>
+      <label>Service Plans for Mac CPUs</label>
+      <url></url>
+      <fakeUrl>service-plans-for-mac-cpu</fakeUrl>
+      <pageTitle>Service plans for Mac CPU at MacMall, The #1 Apple Superstore!</pageTitle>
+      <descriptionMetatag>Get Mac CPU service plan &amp; enjoy the benefits of the true Apple care. Entrust you Mac CPU's to the folks who designed your Mac and its OS.</descriptionMetatag>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.servicePlansPage_Mac</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>126</id>
+      <newId>126</newId>
+      <type>page</type>
+      <label>Service Plans for iPods</label>
+      <url></url>
+      <fakeUrl>service-plans-for-ipods</fakeUrl>
+      <pageTitle>Service plans for iPods at MacMall.com, The #1 Apple Superstore!</pageTitle>
+      <descriptionMetatag>Have an iPod service plan to enjoy peace of mind, avoid hassles and save money in replacing your iPod and its accessories. </descriptionMetatag>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.servicePlansPageiPodsNew</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>153</id>
+      <newId>153</newId>
+      <type>page</type>
+      <label>Service Plans for Mac Desktops</label>
+      <url></url>
+      <pageTitle>Service Plans for Mac Desktops</pageTitle>
+      <useSSL>N</useSSL>
+      <categories>3J*,3O*,3T*</categories>
+      <pageWidget>mall_pages_generic.servicePlansPageMacDesktopsNew</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>154</id>
+      <newId>154</newId>
+      <type>page</type>
+      <label>Service Plans for Mac Notebooks</label>
+      <url></url>
+      <pageTitle>Service Plans for Mac Notebooks</pageTitle>
+      <useSSL>N</useSSL>
+      <categories>3V*,3U*,3X*</categories>
+      <pageWidget>mall_pages_generic.servicePlansPageMacNotebooksNew</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>129</id>
+      <newId>129</newId>
+      <type>page</type>
+      <label>Service Plans for Products</label>
+      <url></url>
+      <fakeUrl>service-plans-for-products</fakeUrl>
+      <pageTitle>Service plans at MacMall.com, Your #1 Apple Superstore!</pageTitle>
+      <descriptionMetatag>Have a peace of mind on your investments once you enroll them to MacMall's service plan. Be worry free and save money on repairs as you got everything covered.</descriptionMetatag>
+      <useSSL>N</useSSL>
+      <pageWidget>mall_pages_generic.servicePlansPage_Etc</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>130</id>
+      <newId>130</newId>
+      <type>group</type>
+      <label>Popups</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <navpoint>
+        <id>131</id>
+        <newId>131</newId>
+        <type>page</type>
+        <label>Apple Service Plan</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <notes>20100817. Text formatting fixed (wt12), width of text div set to 760px. &lt;marix&gt;</notes>
+        <pageWidget>mall_pages_generic.moreInfoApple</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>132</id>
+        <newId>132</newId>
+        <type>page</type>
+        <label>Absolute Solutions</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.moreInfoAbsolute</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>133</id>
+        <newId>133</newId>
+        <type>page</type>
+        <label>Service Net</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>mall_pages_generic.moreInfoServiceNet</pageWidget>
+      </navpoint>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>160</id>
+    <newId>160</newId>
+    <type>page</type>
+    <label>MacMall TV</label>
+    <url></url>
+    <fakeUrl>MacMall TV</fakeUrl>
+    <pageTitle>MacMall TV</pageTitle>
+    <descriptionMetatag>The MacMall TV marketing program is your one-stop shop for state-of-the-art video production.</descriptionMetatag>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_macmallTV.macmallTV</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>166</id>
+    <newId>166</newId>
+    <type>page</type>
+    <label>CM MM Splash Page</label>
+    <url></url>
+    <fakeUrl>clubmac merges with macmall</fakeUrl>
+    <pageTitle>ClubMac is now part of MacMall!</pageTitle>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.clubmacSplash</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>macmsc.38</id>
+    <newId>38</newId>
+    <type>group</type>
+    <label>Error page</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <notes>This is the page shown when an application error occurs.</notes>
+    <navpoint>
+      <id>144</id>
+      <newId>144</newId>
+      <type>page</type>
+      <label>New Navpoint</label>
+      <url></url>
+      <useSSL>N</useSSL>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>165</id>
+    <newId>165</newId>
+    <type>page</type>
+    <label>Home Test Ad</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.homePageTestAd</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>175</id>
+    <newId>175</newId>
+    <type>page</type>
+    <label>New MM Header Final Comps</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>test.blank42</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>150</id>
+    <newId>150</newId>
+    <type>page</type>
+    <label>Server Check</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.healthCheck</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>stinger</id>
+    <newId>168</newId>
+    <type>page</type>
+    <label>Stinger navpoint</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <notes>Stinger page navpoint</notes>
+    <pageWidget>mall_pages_generic.pageCantProcess</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>testPage</id>
+    <newId>3</newId>
+    <type>page</type>
+    <label>Tests Page</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall.pages.test.tt8Training01</pageWidget>
+    <navpoint>
+      <id>119</id>
+      <newId>119</newId>
+      <type>page</type>
+      <label>Sign In</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <notes>Sign in with button linked to CAP Login Page.</notes>
+      <pageWidget>mall_pages_generic.signInCap</pageWidget>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>macmsc.17</id>
+    <newId>17</newId>
+    <type>page</type>
+    <label>No Comps</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>mall_pages_generic.noComps</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>155</id>
+    <newId>155</newId>
+    <type>page</type>
+    <label>Home Alias</label>
+    <url></url>
+    <pageTitle>MacMall - The #1 Mac Warehouse for Apple Computers &amp; Accessories</pageTitle>
+    <descriptionMetatag>MacMall carries the full Apple line, including the new iPad. Get great deals on the MacBook, Mac Pro, iMac, MacBook Pro, iPod, accessories &amp; more!</descriptionMetatag>
+    <keywordMetatag>apple,mac,ipod,ipad,macbook, macbook pro, macbook air, imac, ipod touch, ipod nano, ipod classic, ipod shuffle</keywordMetatag>
+    <useSSL>N</useSSL>
+    <notes>Homepage Alias for MACMALRETAIL.com</notes>
+    <pageWidget>mall_pages_generic.homePage</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>184</id>
+    <newId>184</newId>
+    <type>page</type>
+    <label>Home v2</label>
+    <url></url>
+    <useSSL>N</useSSL>
+    <pageWidget>pages.mmHomePageV2</pageWidget>
+  </navpoint>
+  <navpoint>
+    <id>190</id>
+    <newId>190</newId>
+    <type>page</type>
+    <label>New Navpoint</label>
+    <url></url>
+    <useSSL>N</useSSL>
+  </navpoint>
+</navpoint>
