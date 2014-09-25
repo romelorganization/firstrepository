@@ -1,0 +1,77 @@
+<navpoint>
+  <id>macAboutUsMenu</id>
+  <newId>0</newId>
+  <type>group</type>
+  <label>About Us menu</label>
+  <notes>Items in the "About Us" menu.</notes>
+  <onlyContainsAliases>Y</onlyContainsAliases>
+  <navpoint>
+    <id>211000001</id>
+    <newId>1</newId>
+    <type>page</type>
+    <label>About Us</label>
+    <linkedNavpoint>macmsc-macmsc.10</linkedNavpoint>
+    <navpoint>
+      <id>212000001</id>
+      <newId>2</newId>
+      <type>alias</type>
+      <label>About Us</label>
+      <linkedNavpoint>macmsc-macmsc.10</linkedNavpoint>
+    </navpoint>
+    <navpoint>
+      <id>212000002</id>
+      <newId>3</newId>
+      <type>alias</type>
+      <label>Locations</label>
+      <linkedNavpoint>macmsc-macmsc.10</linkedNavpoint>
+    </navpoint>
+    <navpoint>
+      <id>212000003</id>
+      <newId>4</newId>
+      <type>alias</type>
+      <label>Executive Team</label>
+      <linkedNavpoint>macmsc-macmsc.21</linkedNavpoint>
+    </navpoint>
+  </navpoint>
+  <navpoint>
+    <id>211000002</id>
+    <newId>5</newId>
+    <type>alias</type>
+    <label>MacMall Advantage</label>
+    <linkedNavpoint>macmsc-macmsc.20</linkedNavpoint>
+  </navpoint>
+  <navpoint>
+    <id>211000003</id>
+    <newId>6</newId>
+    <type>alias</type>
+    <label>Investor Relations</label>
+    <linkedNavpoint>macmsc-macmsc.14</linkedNavpoint>
+  </navpoint>
+  <navpoint>
+    <id>211000004</id>
+    <newId>7</newId>
+    <type>alias</type>
+    <label>Careers</label>
+    <linkedNavpoint>macmsc-macmsc.12</linkedNavpoint>
+  </navpoint>
+  <navpoint>
+    <id>211000005</id>
+    <newId>8</newId>
+    <type>alias</type>
+    <label>Contact Us</label>
+    <linkedNavpoint>macmsc-macmsc.10</linkedNavpoint>
+  </navpoint>
+  <navpoint>
+    <id>211000006</id>
+    <newId>9</newId>
+    <type>alias</type>
+    <label>Home</label>
+    <linkedNavpoint>macmsc-macmsc.10</linkedNavpoint>
+    <navpoint>
+      <id>macAboutUsMenu.10</id>
+      <newId>10</newId>
+      <type>page</type>
+      <label>New Navpoint</label>
+    </navpoint>
+  </navpoint>
+</navpoint>
